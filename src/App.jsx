@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./App.css"; // Puedes mover los estilos ahí si prefieres
+import "./App.css"; 
 
 export default function App() {
   const [activeTab, setActiveTab] = useState("productos");
